@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 
 
 ## PROGRAM
-### DEVELOPED BY : KUMUDHINI T
-### REGISTER NO: 212222040084
+### DEVELOPED BY : Niralya J
+### REGISTER NO: 212224230188
 
 ### MainActivity.java:
 ```
