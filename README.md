@@ -7,7 +7,7 @@ To create Hello world Activity using all lifecycles methods to display messages 
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min. required Artic Fox)
+Android Studio(Min. required Artic Fox) 
 
 
 ## ALGORITHM:
